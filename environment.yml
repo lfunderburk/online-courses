@@ -9,4 +9,4 @@ dependencies:
     - sphinx-gallery
     - pandas
     - matplotlib
-    - mobilechelonian	
+    - mobilechelonian
