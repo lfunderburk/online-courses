@@ -1,12 +1,11 @@
 name: base
 channels:
-  - conda-forge
+  - defaults
 dependencies:
   - python
   - numpy
   - pip:
     - nbgitpuller
-    - sphinx-gallery
     - pandas
     - matplotlib
     - mobilechelonian
