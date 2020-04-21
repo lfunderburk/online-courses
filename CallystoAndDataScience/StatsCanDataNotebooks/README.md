@@ -1,6 +1,12 @@
 ## Stats Can Notebooks
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/callysto/Onlea/master?filepath=StatsCanDataNotebooks%2F)
+Birth, Death and Marriage (1946 - 2019)
+
+<a href="http://tinyurl.com/y9d48r9n" target="_parent"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a>
+
+Labour force characteristics by Indigenous group and educational attainment
+
+<a href="http://tinyurl.com/y7fnd3xw" target="_parent"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a>
 
 Press the button above to access a demo. 
 
