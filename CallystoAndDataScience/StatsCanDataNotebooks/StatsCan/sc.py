@@ -15,6 +15,7 @@ import h5py
 import pandas as pd
 import numpy as np
 import requests
+import tqdm 
 # from stats_can.scwds import get_series_info_from_vector
 # from stats_can.scwds import get_data_from_vectors_and_latest_n_periods
 # from stats_can.scwds import get_bulk_vector_data_by_range
@@ -88,7 +89,7 @@ def download_tables(tables, path=None, csv=True):
     """
     metas = get_cube_metadata(tables)
     size=len(metas)
-    for i in tnrange(size, desc='Downloading Dataset'):# For each soup
+    for i in tqdm.trange(size, desc='Downloading Dataset'):# For each soup
         sleep(0.001)
         product_id = metas[i]['productId']
         zip_url = get_full_table_download(product_id, csv=csv)
