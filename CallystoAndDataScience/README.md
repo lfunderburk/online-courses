@@ -10,6 +10,8 @@
 
 ## Module 4
 
+<a href="http://tinyurl.com/y97qcnsn" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Unit 1: Introductory data visualization 
+
 <a href="http://tinyurl.com/yd6uqehm" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Unit 5: Notebook with visualizations using Vancouver Open Data
 
 ## Module 5
