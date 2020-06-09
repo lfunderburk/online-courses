@@ -18,7 +18,7 @@
 <a href="http://tinyurl.com/ybaagjl9" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Unit 3: Using data visualizations
 
 
-<a href="http://tinyurl.com/yd6uqehm" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Unit 4: Resources for Data Visualizations (using Vancouver Open Data)
+<a href="http://tinyurl.com/yd6uqehm" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Unit 4: Resources for data visualizations (using Vancouver Open Data)
 
 ## Module 5
 
