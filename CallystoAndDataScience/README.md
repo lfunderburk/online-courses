@@ -23,6 +23,11 @@
 
 <a href="http://tinyurl.com/yc8noyhb" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Unit 5: Visualization design (using StatsCan Open Data)
 
+#### Module 4 Projects
+
+<a href="http://tinyurl.com/y9d48r9n" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Birth, Death and Marriage (1946 - 2019) (hidden code notebook)
+
+<a href="http://tinyurl.com/yddflcro" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Labour force characteristics by Indigenous group and educational attainment (2007 - 2019) (open code notebook)
 
 ## Module 5
 
