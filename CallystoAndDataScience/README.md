@@ -1,5 +1,7 @@
 # Links to notebooks 
 
+*Links are out of date, this note will be removed once links have been updated.*
+
 ## Module 1
 
 <a href="http://tinyurl.com/y87twms2" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Unit 1
