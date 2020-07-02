@@ -1,16 +1,13 @@
 # Links to notebooks 
 
-## Module 1
+## Module What is Data Dcience?
 
 <a href="http://tinyurl.com/y8c4kjv2" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> The Olympics: An introduction to manipulating data using Jupyter notebooks
 
 <a href="http://tinyurl.com/yca4n393" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Exploring Gapminder Data with Jupyter Notebooks
 
-## Module 2
 
-## Module 3
-
-## Module 4
+## Module: Introduction to Data Visualization using Jupyter Notebooks
 
 <a href="http://tinyurl.com/ybtokxdv" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Introductory data visualization 
 
@@ -22,7 +19,11 @@
 
 <a href="http://tinyurl.com/y9ye8rs9" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Speed and power
 
-#### Module 4 Projects: Stats Can Notebooks
+#### Sample Projects: Stats Can Notebooks
+
+Statistics Canada https://www.statcan.gc.ca/ 
+
+Python api for Statistics Canada New Data Model (NDM) https://github.com/ianepreston/stats_can
 
 <a href="http://tinyurl.com/y9vw7vnr" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Birth, Death and Marriage (1946 - 2019) (hidden code notebook)
 
@@ -33,14 +34,8 @@
 
 Press any of the buttons above to access a demo. 
 
-##### Acknowledgements 
 
-Statistics Canada https://www.statcan.gc.ca/ 
-
-Python api for Statistics Canada New Data Model (NDM) https://github.com/ianepreston/stats_can
-
-
-## Module 5
+## Module: Interpreting Data Visualization Results
 
 <a href="http://tinyurl.com/y8598woa" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Multiple Visualizations
 
