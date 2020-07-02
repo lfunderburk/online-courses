@@ -1,10 +1,8 @@
 # Links to notebooks 
 
-*Links are out of date, this note will be removed once links have been updated.*
-
 ## Module 1
 
-<a href="http://tinyurl.com/y8c4kjv2" target="_blank">Click</a><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> The Olympics: An introduction to manipulating data using Jupyter notebooks
+<a href="http://tinyurl.com/y8c4kjv2" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> The Olympics: An introduction to manipulating data using Jupyter notebooks
 
 <a href="http://tinyurl.com/yca4n393" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Exploring Gapminder Data with Jupyter Notebooks
 
