@@ -16,7 +16,7 @@
 
 <a href="http://tinyurl.com/ybpwr28n" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Choosing the right type of visualization for your data
 
-<a href="http://tinyurl.com/yd8x9bnx" target="_blank">Click<img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Accessiible Colour Schemes in Data Visualization
+<a href="http://tinyurl.com/yd8x9bnx" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Accessiible Colour Schemes in Data Visualization
 
 <a href="http://tinyurl.com/ycmfeyvy" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Resources for data visualizations (using Vancouver Open Data)
 
