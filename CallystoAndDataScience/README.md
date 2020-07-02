@@ -1,5 +1,8 @@
 # Links to notebooks 
 
+Press any of the buttons <img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> below to access a demo. 
+
+
 ## Module What is Data Dcience?
 
 <a href="http://tinyurl.com/y8c4kjv2" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> The Olympics: An introduction to manipulating data using Jupyter notebooks
@@ -30,9 +33,6 @@ Python api for Statistics Canada New Data Model (NDM) https://github.com/ianepre
 <a href="http://tinyurl.com/y7x7nwz9" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Labour force characteristics by Indigenous group and educational attainment (2007 - 2019) (open code notebook)
 
 <a href="http://tinyurl.com/y7e9ybh5" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Participation in outdoor activities
-
-
-Press any of the buttons above to access a demo. 
 
 
 ## Module: Interpreting Data Visualization Results
