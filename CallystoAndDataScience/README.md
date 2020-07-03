@@ -46,5 +46,7 @@ Python api for Statistics Canada New Data Model (NDM) https://github.com/ianepre
 <a href="http://tinyurl.com/y6vronqn" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Population over time
 
 
+## Final Project Template 
 
+<a href="http://tinyurl.com/ycadxn24" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a>  Final Project Wiki
 
