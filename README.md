@@ -1,19 +1,19 @@
 # Onlea
 Training notebooks for [courses.callysto.ca](https://courses.callysto.ca)
 
-# Data Science Courses - Links to notebooks 
+## Data Science Courses - Links to notebooks 
 
 Press any of the buttons <img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> below to access a demo. 
 
 
-## Module: What is Data Dcience?
+### Module: What is Data Dcience?
 
 <a href="http://tinyurl.com/y8c4kjv2" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> The Olympics: An introduction to manipulating data using Jupyter notebooks
 
 <a href="http://tinyurl.com/yca4n393" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Exploring Gapminder data with Jupyter Notebooks
 
 
-## Module: Introduction to Data Visualization using Jupyter Notebooks
+### Module: Introduction to Data Visualization using Jupyter Notebooks
 
 <a href="http://tinyurl.com/ybtokxdv" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Introductory data visualization 
 
@@ -38,7 +38,7 @@ Python api for Statistics Canada New Data Model (NDM) https://github.com/ianepre
 <a href="http://tinyurl.com/y7e9ybh5" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Participation in outdoor activities
 
 
-## Module: Interpreting Data Visualization Results
+### Module: Interpreting Data Visualization Results
 
 <a href="http://tinyurl.com/y8598woa" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Multiple visualizations
 
@@ -49,7 +49,7 @@ Python api for Statistics Canada New Data Model (NDM) https://github.com/ianepre
 <a href="http://tinyurl.com/y6vronqn" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Population over time
 
 
-## Final Project Template 
+### Final Project Template 
 
 <a href="http://tinyurl.com/ycadxn24" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a>  Final Project Wiki
 
