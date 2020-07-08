@@ -1,5 +1,8 @@
-# Onlea
+# Callysto Online Courses
+
 Training notebooks for [courses.callysto.ca](https://courses.callysto.ca)
+
+## Computational Thinking Course - Links to notebooks
 
 ## Data Science Course - Links to notebooks 
 
