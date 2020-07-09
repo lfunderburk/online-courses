@@ -56,19 +56,6 @@ Press any of the buttons <img src="https://raw.githubusercontent.com/callysto/cu
 
 <a href="http://tinyurl.com/y9ye8rs9" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Speed and power
 
-#### Sample Projects: Stats Can Notebooks
-
-Statistics Canada https://www.statcan.gc.ca/ 
-
-Python api for Statistics Canada New Data Model (NDM) https://github.com/ianepreston/stats_can
-
-<a href="http://tinyurl.com/y9vw7vnr" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Birth, death and marriage (1946 - 2019) (hidden code notebook)
-
-<a href="http://tinyurl.com/y7x7nwz9" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Labour force characteristics by Indigenous group and educational attainment (2007 - 2019) (open code notebook)
-
-<a href="http://tinyurl.com/y7e9ybh5" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Participation in outdoor activities
-
-
 ### Module: Interpreting Data Visualization Results
 
 <a href="http://tinyurl.com/y8598woa" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Multiple visualizations
@@ -83,4 +70,17 @@ Python api for Statistics Canada New Data Model (NDM) https://github.com/ianepre
 ### Final Project Template 
 
 <a href="http://tinyurl.com/ycadxn24" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a>  Final Project Wiki
+
+### Sample Projects: Stats Can Notebooks
+
+Statistics Canada https://www.statcan.gc.ca/ 
+
+Python api for Statistics Canada New Data Model (NDM) https://github.com/ianepreston/stats_can
+
+<a href="http://tinyurl.com/y9vw7vnr" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Birth, death and marriage (1946 - 2019) (hidden code notebook)
+
+<a href="http://tinyurl.com/y7x7nwz9" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Labour force characteristics by Indigenous group and educational attainment (2007 - 2019) (open code notebook)
+
+<a href="http://tinyurl.com/y7e9ybh5" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Participation in outdoor activities
+
 
