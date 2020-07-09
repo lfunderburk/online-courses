@@ -11,7 +11,7 @@ Press any of the buttons <img src="https://raw.githubusercontent.com/callysto/cu
 
 ### Python Exercises
 
-<a href="<a href="http://tinyurl.com/yalp9vze" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Exercise: Formatting text using Markdown
+<a href="http://tinyurl.com/yalp9vze" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Exercise: Formatting text using Markdown
 
 <a href="http://tinyurl.com/yb46jj8t" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Exercise Python Part I
 
