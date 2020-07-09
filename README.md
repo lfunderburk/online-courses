@@ -2,12 +2,12 @@
 
 Training notebooks for [courses.callysto.ca](https://courses.callysto.ca)
 
-## Computational Thinking Course - Links to notebooks
-
-## Data Science Course - Links to notebooks 
 
 Press any of the buttons <img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/> below to access a demo. 
 
+## Computational Thinking Course - Links to notebooks
+
+## Data Science Course - Links to notebooks 
 
 ### Module: What is Data Dcience?
 
