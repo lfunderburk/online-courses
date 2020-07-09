@@ -7,6 +7,34 @@ Press any of the buttons <img src="https://raw.githubusercontent.com/callysto/cu
 
 ## Computational Thinking Course - Links to notebooks
 
+<a href="http://tinyurl.com/y8ycmhco" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Your First Jupyter notebook
+
+### Python Exercises
+
+<a href="<a href="http://tinyurl.com/yalp9vze" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Exercise: Formatting text using Markdown
+
+<a href="http://tinyurl.com/yb46jj8t" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Exercise Python Part I
+
+<a href="http://tinyurl.com/y72eo4pk" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Exercise Python Part II
+
+<a href="http://tinyurl.com/y97k4c93" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Exercise Python Turtles
+
+### Python Solutions
+
+<a href="http://tinyurl.com/y7htxpg2" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Solution: Formatting text using Markdown
+
+<a href="http://tinyurl.com/y7nxpwct" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Solution Python Part I
+
+<a href="http://tinyurl.com/yb3b9t3u" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Solution Python Part II
+
+<a href="http://tinyurl.com/yd9bwqpc" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Solution Python Turtles
+
+### Misc Notebooks
+
+<a href="http://tinyurl.com/ybwnc594" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Area of a Circle
+
+<a href="http://tinyurl.com/ybfzg48o" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Introduction to Open Data
+
 ## Data Science Course - Links to notebooks 
 
 ### Module: What is Data Dcience?
