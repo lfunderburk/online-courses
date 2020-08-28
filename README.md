@@ -56,6 +56,8 @@ Press any of the buttons <img src="https://raw.githubusercontent.com/callysto/cu
 
 <a href="http://tinyurl.com/y9ye8rs9" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Speed and power
 
+<a href="http://tinyurl.com/yyptf39u" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Higher Dimension Visualization
+
 ### Module: Interpreting Data Visualization Results
 
 <a href="http://tinyurl.com/y8598woa" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Multiple visualizations
