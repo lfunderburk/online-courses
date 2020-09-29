@@ -2,18 +2,19 @@
 <html lang="en">
 
 <head>
-    <meta charset="utf-8">
-    <title>Data Visualization</title>
-    <script>
-        // Store the URL the user was trying to access when receiving the 404.
-        sessionStorage.redirect = location.href;
-        ///if (location.href.includes('datographer')) {
-          document.getElementById('redirector').setAttribute('content', '/online-courses/CallystoAndDataScience/modules/interactives/datographer/');
-       // }
-    </script>
-
+  <meta charset="utf-8">
+  <title>Data Visualization</title>
+  
   <!-- Immediately redirect to the base URL so we can use the SPA routing. -->
-  <meta id="redirector" http-equiv="refresh" content="0;URL='/'"></meta>
+  <script>
+      // Store the URL the user was trying to access when receiving the 404.
+      sessionStorage.redirect = location.href;
+      ///if (location.href.includes('datographer')) {
+        window.location.replace('/online-courses/CallystoAndDataScience/modules/interactives/datographer/');
+      // }
+      // else
+      // { // go to a real 404 page too! }
+  </script>
 </head>
 
 <body>
