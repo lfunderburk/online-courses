@@ -7,10 +7,13 @@
     <script>
         // Store the URL the user was trying to access when receiving the 404.
         sessionStorage.redirect = location.href;
+        ///if (location.href.includes('datographer')) {
+          document.getElementById('redirector').setAttribute('content', '/online-courses/CallystoAndDataScience/modules/interactives/datographer/');
+       // }
     </script>
 
   <!-- Immediately redirect to the base URL so we can use the SPA routing. -->
-  <meta http-equiv="refresh" content="0;URL='/'"></meta>
+  <meta id="redirector" http-equiv="refresh" content="0;URL='/'"></meta>
 </head>
 
 <body>
