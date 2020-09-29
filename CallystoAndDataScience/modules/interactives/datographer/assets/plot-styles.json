@@ -1,0 +1,238 @@
+{
+  "title": "Plot",
+  "numOptions": "3",
+  "items": [
+    {
+      "text": "assets/images/type/button_pie_chart_empty.svg",
+      "alt": "Pie Chart",
+      "subHeading": "Pie Chart",
+      "vector": true,
+      "type": "pie",
+      "text1": "assets/images/type/button_pie_chart_fill.svg",
+      "text2": "assets/images/type/button_pie_chart_empty.svg"
+    },
+    {
+      "text": "assets/images/type/Updated_bar_chart_empty.svg",
+      "alt": "Bar Chart",
+      "subHeading": "Bar Chart",
+      "vector": true,
+      "type": "bar",
+      "text1": "assets/images/type/Updated_bar_chart_fill.svg",
+      "text2": "assets/images/type/Updated_bar_chart_empty.svg"
+    },
+    {
+      "text": "assets/images/type/button_scatter_plot_empty.svg",
+      "alt": "Scatter Plot",
+      "subHeading": "Scatter Plot",
+      "vector": true,
+      "type": "scatter",
+      "text1": "assets/images/type/button_scatter_plot_fill.svg",
+      "text2": "assets/images/type/button_scatter_plot_empty.svg"
+    }
+  ],
+  "targets": [
+    {
+      "text": "assets/images/type/Updated_age_neutral.svg",
+      "assigned": null,
+      "alt": "Age Count",
+      "vector": true,
+      "original": "age"
+    },
+    {
+      "text": "assets/images/type/Updated_gender_neutral.svg",
+      "assigned": null,
+      "alt": "Gender Count",
+      "vector": true,
+      "original": "gender"
+    },
+    {
+      "text": "assets/images/type/Updated_species_neutral.svg",
+      "assigned": null,
+      "alt": "Species Count",
+      "vector": true,
+      "original": "species"
+    }
+  ],
+  "targetsNew": [
+    {
+      "text": " ",
+      "assigned": null,
+      "alt": null,
+      "font": true
+    },
+    {
+      "text": "  ",
+      "assigned": null,
+      "alt": null,
+      "font": true
+    },
+    {
+      "text": "   ",
+      "assigned": null,
+      "alt": null,
+      "font": true
+    }
+  ],
+  "thirdtargets": {
+    "age": [
+      {
+        "text": "assets/images/type/graph_age_pie_chart.svg",
+        "assigned": null,
+        "alt": "age Logo with Goudy Bookletter applied",
+        "vector": true,
+        "original": "age"
+      },
+      {
+        "text": "assets/images/type/graph_age_bar_chart.svg",
+        "assigned": null,
+        "alt": "age Logo with Lobster applied",
+        "vector": true,
+        "original": "age"
+      },
+      {
+        "text": "assets/images/type/graph_age_scatter_plot.svg",
+        "assigned": null,
+        "alt": "age Logo with Orbitron applied",
+        "vector": true,
+        "original": "age"
+      }
+    ],
+    "gender": [
+      {
+        "text": "assets/images/type/graph_gender_pie_chart.svg",
+        "assigned": null,
+        "alt": "gender Exit Logo with Goudy Bookletter applied",
+        "vector": true,
+        "original": "gender"
+      },
+      {
+        "text": "assets/images/type/graph_gender_bar_chart.svg",
+        "assigned": null,
+        "alt": "gender Exit Logo with Lobster applied",
+        "vector": true,
+        "original": "gender"
+      },
+      {
+        "text": "assets/images/type/graph_gender_scatter_plot.svg",
+        "assigned": null,
+        "alt": "gender Exit Logo with Orbitron applied",
+        "vector": true,
+        "original": "gender"
+      }
+    ],
+    "species": [
+      {
+        "text": "assets/images/type/graph_species_pie_chart.svg",
+        "assigned": null,
+        "alt": "species Logo with Goudy Bookletter applied",
+        "vector": true,
+        "original": "species"
+      },
+      {
+        "text": "assets/images/type/graph_species_bar_chart.svg",
+        "assigned": null,
+        "alt": "species Logo with Lobster applied",
+        "vector": true,
+        "original": "species"
+      },
+      {
+        "text": "assets/images/type/graph_species_scatter_plot.svg",
+        "assigned": null,
+        "alt": "species Logo with Orbitron applied",
+        "vector": true,
+        "original": "species"
+      }
+    ]
+  },
+  "options": {
+    "ageCount": [
+      {
+        "text": "assets/images/type/Updated_age_purple.svg",
+        "assigned": null,
+        "alt": "Age Count with Pie Chart applied",
+        "vector": true,
+        "original": "age"
+      },
+      {
+        "text": "assets/images/type/Updated_age_blue.svg",
+        "assigned": null,
+        "alt": "Age Count with Bar Chart applied",
+        "vector": true,
+        "original": "age"
+      },
+      {
+        "text": "assets/images/type/Updated_age_orange.svg",
+        "assigned": null,
+        "alt": "Age Count with Scatter Plot applied",
+        "vector": true,
+        "original": "age"
+      }
+    ],
+    "genderCount": [
+      {
+        "text": "assets/images/type/Updated_gender_purple.svg",
+        "assigned": null,
+        "alt": "Gender Count with Pie Chart applied",
+        "vector": true,
+        "original": "gender"
+      },
+      {
+        "text": "assets/images/type/Updated_gender_blue.svg",
+        "assigned": null,
+        "alt": "Gender Count with Bar Chart applied",
+        "vector": true,
+        "original": "gender"
+      },
+      {
+        "text": "assets/images/type/Updated_gender_orange.svg",
+        "assigned": null,
+        "alt": "Gender Count with Scatter Plot applied",
+        "vector": true,
+        "original": "gender"
+      }
+    ],
+    "speciesCount": [
+      {
+        "text": "assets/images/type/Updated_species_purple.svg",
+        "assigned": null,
+        "alt": "Species Count with Pie Chart applied",
+        "vector": true,
+        "original": "species"
+      },
+      {
+        "text": "assets/images/type/Updated_species_blue.svg",
+        "assigned": null,
+        "alt": "Species Count with Bar Chart applied",
+        "vector": true,
+        "original": "species"
+      },
+      {
+        "text": "assets/images/type/Updated_species_orange.svg",
+        "assigned": null,
+        "alt": "Species Count with Scatter Plot applied",
+        "vector": true,
+        "original": "species"
+      }
+    ]
+  },
+  "guideDialog": {
+    "title": "DATOGRAPHER Tutorial",
+    "messages": [
+      {
+        "text": "For each data set on the right, select different visualization styles from the list on the right to see which fits best.",
+        "url": "assets/images/type/Updated_dialogue_1.svg",
+        "alt": "Image of an item being selected and applied to a target."
+      },
+      {
+        "text": "Once you are satisfied with your selections for all three data sets, click Submit in the top right to see how many other learners agreed with you!",
+        "url": "assets/images/type/dialogue_2.svg",
+        "alt": "Image of the submit button."
+      },
+      {
+        "text": "Use the buttons in the top left to reset the DATOGRAPHER or to view this tutorial again.",
+        "url": "assets/images/type/dialogue_4 (1).svg",
+        "alt": "Image of the guide and reset button."
+      }
+    ]
+  }
+}

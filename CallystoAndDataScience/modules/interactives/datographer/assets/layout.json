@@ -1,0 +1,137 @@
+{
+  "title": "Layout",
+  "numOptions": "3",
+  "items": [
+    {
+      "text": "assets/images/layout-images/icon-images/3-Column Grid.svg",
+      "alt": "3-Column Grid",
+      "vector": true
+    },
+    {
+      "text": "assets/images/layout-images/icon-images/Hierarchical Grid.svg",
+      "alt": "Hierarchical Grid",
+      "vector": true
+    },
+    {
+      "text": "assets/images/layout-images/icon-images/Modular Grid.svg",
+      "alt": "Modular Grid",
+      "vector": true
+    }
+  ],
+  "targets": [
+    {
+      "text": "assets/images/layout-images/layout-placeholders/LayoutPlaceholder-1Image.png",
+      "assigned": null,
+      "alt": "Magazine page with a single image",
+      "png": true
+    },
+    {
+      "text": "assets/images/layout-images/layout-placeholders/LayoutPlaceholder-3Images.png",
+      "assigned": null,
+      "alt": "Magazine page with three images",
+      "png": true
+    },
+    {
+      "text": "assets/images/layout-images/layout-placeholders/LayoutPlaceholder-ManyImages.png",
+      "assigned": null,
+      "alt": "Magazine page with multiple images",
+      "png": true
+    }
+  ],
+  "options": {
+    "1-image":[
+      {
+        "text": "assets/images/layout-images/3column-images/Layouts-3Column-1Image.png",
+        "assigned": null,
+        "alt": "1 image magazine page with a 3 column layout",
+        "png": true,
+        "original": "1-image"
+      },
+      {
+        "text": "assets/images/layout-images/hierarchical-images/Layouts-Hierarchical-1Image.png",
+        "assigned": null,
+        "alt": "1 image magazine page with a hierarchical column layout",
+        "png": true,
+        "original": "1-image"
+      },
+      {
+        "text": "assets/images/layout-images/modular-images/Layouts-Modular-1Image.png",
+        "assigned": null,
+        "alt": "1 image magazine page with a modular layout",
+        "png": true,
+        "original": "1-image"
+      }
+    ],
+    "3-images": [
+      {
+        "text": "assets/images/layout-images/3column-images/Layouts-3Column-3Images.png",
+        "assigned": null,
+        "alt": "3 image magazine page with a 3 column layout",
+        "png": true,
+        "original": "3-images"
+      },
+      {
+        "text": "assets/images/layout-images/hierarchical-images/Layouts-Hierarchical-3Images.png",
+        "assigned": null,
+        "alt": "3 image magazine page with a hierarchical column layout",
+        "png": true,
+        "original": "3-images"
+      },
+      {
+        "text": "assets/images/layout-images/modular-images/Layouts-Modular-3Images.png",
+        "assigned": null,
+        "alt": "3 image magazine page with a modular layout",
+        "png": true,
+        "original": "3-images"
+      }
+    ],
+    "many-images": [
+      {
+        "text": "assets/images/layout-images/3column-images/Layouts-3Column-ManyImages.png",
+        "assigned": null,
+        "alt": "Many image magazine page with a 3 column layout",
+        "png": true,
+        "original": "many-images"
+      },
+      {
+        "text": "assets/images/layout-images/hierarchical-images/Layouts-Hierarchical-ManyImages.png",
+        "assigned": null,
+        "alt": "Many image magazine page with a hierarchical column layout",
+        "png": true,
+        "original": "many-images"
+      },
+      {
+        "text": "assets/images/layout-images/modular-images/Layouts-Modular-ManyImages.png",
+        "assigned": null,
+        "alt": "Many image magazine page with a modular layout",
+        "png": true,
+        "original": "many-images"
+      }
+    ]
+  },
+  "guideDialog":{
+    "title":"Grid Choices",
+    "messages": [
+      {
+      "text":"Apply the grids on the left to the magazine pages on the right.",
+      "url":"assets/images/guide-images/layoutselection.png",
+      "alt":"Image of an item being selected and applied to a target."
+    },{
+      "text":"Experiment with what looks best, then click submit to see how many other learners made the same choice.",
+      "url":"assets/images/guide-images/submitscreenshot.png",
+      "alt":"Image of the submit button."
+    },
+    {
+      "text":"After submitting your choices, you can click on the result to show and hide your answer.",
+      "url":"assets/images/guide-images/layoutclick.png",
+      "alt":"Image of the statistics being clicked on, showing the learner's choice underneath."
+    },
+    {
+      "text":"View this guide again or restart this exercise at any point using the buttons in the top left corner.",
+      "url":"assets/images/guide-images/helpreset.png",
+      "alt":"Image of the guide and reset button."
+    }
+    ]
+  }
+
+}
