@@ -1,7 +1,20 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <!-- Unknown-url 404 redirecting for Angular apps that require SPA routing. -->
+    <!--
+      Unknown-url 404 redirecting for Angular apps that require SPA routing.
+      Currently supporting online-courses/CallystoAndDataScience/modules/interactives/datographer
+      To add support for this style of deployment to another Angular app, insert this code
+      in the app's index.html, before the <app-root>:
+
+      <script>
+        (function () {
+          var redirect = sessionStorage.redirect;
+          delete sessionStorage.redirect;
+          if (redirect && redirect != location.href) { history.replaceState(null, null, redirect); }
+        })();
+      </script>
+    -->
     <script>
     // Store the URL the user was trying to access when receiving the 404.
     sessionStorage.redirect = location.href;
