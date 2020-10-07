@@ -78,69 +78,78 @@
       {
         "text": "assets/images/type/graph_age_pie_chart.svg",
         "assigned": null,
-        "alt": "age Logo with Goudy Bookletter applied",
+        "alt": "Pie Chart applied to Age Data Set",
         "vector": true,
-        "original": "age"
+        "original": "age",
+        "description": "You have selected a Pie Chart to visualize pet age. This type of chart is great to visualize what percentage of individuals occupy a specific category, in this case the categories are ages from 1 to 16. When dealing with a large number of categories that have few individuals, it might be difficult to read and interpret this graph. When using this type of visualization consider that the main focus is on percentage of individuals within each category, where percentage is calculated based on the total number of individuals."
       },
       {
         "text": "assets/images/type/graph_age_bar_chart.svg",
         "assigned": null,
-        "alt": "age Logo with Lobster applied",
+        "alt": "Bar Chart applied to Age Data Set",
         "vector": true,
-        "original": "age"
+        "original": "age",
+        "description":"You have selected a Bar Chart to visualize pet age. This type of chart is great for visualizing the number of individuals in each category, in this case the categories are ages from 1 to 16. From this plot we can see that a lot of pets are 3 years old or younger. When using this type of visualization consider that the main focus is on frequency of individuals within each category."
       },
       {
         "text": "assets/images/type/graph_age_scatter_plot.svg",
         "assigned": null,
-        "alt": "age Logo with Orbitron applied",
+        "alt": "Scatter Plot applied to Age Data Set",
         "vector": true,
-        "original": "age"
+        "original": "age",
+        "description": "You have selected a Scatter Plot to visualize pet age. This type of chart is great at showing the relationship between two variables. For example, the relationship between age of a pet and its weight. This plot can be confusing when comparing a variable against its frequency, such as age against count. When using this type of visualization consider that the main focus is on the relationship between two numerical variables."
       }
     ],
     "gender": [
       {
         "text": "assets/images/type/graph_gender_pie_chart.svg",
         "assigned": null,
-        "alt": "gender Exit Logo with Goudy Bookletter applied",
+        "alt": "Pie Chart applied to Gender Data Set",
         "vector": true,
-        "original": "gender"
+        "original": "gender",
+        "description": "You have selected a Pie Chart to visualize pet gender. This type of chart is great to visualize what percentage of individuals occupy a specific category, in this case the categories are pet genders male and female. This visualization is great when dealing with a small number of categories, and a large number of individuals. This visualization communicates that there are slighlty more female pets than male pets in the dataset (51.6% female, 48.4%). When using this type of visualization consider that the main focus is on percentage of individuals within each category, where percentage is calculated based on the total number of individuals."
       },
       {
         "text": "assets/images/type/graph_gender_bar_chart.svg",
         "assigned": null,
-        "alt": "gender Exit Logo with Lobster applied",
+        "alt": "Bar Chart applied to Gender Data Set",
         "vector": true,
-        "original": "gender"
+        "original": "gender",
+        "description": "You have selected a Bar Chart to visualize pet gender. This type of chart is great for visualizing the number of individuals in each category, in this case the categories are pet genders male and female. This type of visualization is useful when the numbers are quite different between the categories. In this example, the number of female and male pets is very close. When using this type of visualization consider that the main focus is on frequency of individuals within each category."
       },
       {
         "text": "assets/images/type/graph_gender_scatter_plot.svg",
         "assigned": null,
-        "alt": "gender Exit Logo with Orbitron applied",
+        "alt": "Scatter Plot applied to Gender Data Set",
         "vector": true,
-        "original": "gender"
+        "original": "gender",
+        "description": "You have selected a Scatter Plot to visualize pet gender. This type of chart is great at showing the relationship between two variables. For example, the relationship between age of a pet and its weight. This plot can be confusing when comparing a variable against its frequency, such as gender against count (the number of times a pet of a given gender appeared in the dataset). When using this type of visualization consider that the main focus is on the relationship between two numerical variables."
       }
     ],
     "species": [
       {
         "text": "assets/images/type/graph_species_pie_chart.svg",
         "assigned": null,
-        "alt": "species Logo with Goudy Bookletter applied",
+        "alt": "Pie Chart applied to Species Data Set",
         "vector": true,
-        "original": "species"
+        "original": "species",
+        "description": "You have selected a Pie Chart to visualize pet species. This type of chart is great to visualize what percentage of individuals occupy a specific category. This type of chart emphasises the idea that almost half of the pets in the dataset are dogs (48.4% of pets are dogs), and that about a third of the pets in the dataset are cats (35.5% of pets are cats). When using this type of visualization consider that the main focus is on percentage of individuals within each category, where percentage is calculated based on the total number of individuals."
       },
       {
         "text": "assets/images/type/graph_species_bar_chart.svg",
         "assigned": null,
-        "alt": "species Logo with Lobster applied",
+        "alt": "Bar Chart applied to Species Data Set",
         "vector": true,
-        "original": "species"
+        "original": "species",
+        "description": "You have selected a Bar Chart to visualize pet species. This type of chart is great for visualizing the number of individuals in each category, in this case the categories are pet species. This type of visualization great to see the number of individuals within each category. From this plot we see that most pets in the data set are dogs and cats, and that there are 2 lizards, 2 rabbits and 1 tarantula. When using this type of visualization consider that the main focus is on frequency of individuals within each category."
       },
       {
         "text": "assets/images/type/graph_species_scatter_plot.svg",
         "assigned": null,
-        "alt": "species Logo with Orbitron applied",
+        "alt": "Scatter Plot applied to Species Data Set",
         "vector": true,
-        "original": "species"
+        "original": "species",
+        "description": "You have selected a Scatter Plot to visualize pet species population. This type of chart is great at showing the relationship between two variables. For example, the relationship between age of a pet and its weight. This plot can be confusing when comparing a variable against its frequency, such as pet species against count (the number of times a pet of a given species appeared in the dataset). When using this type of visualization consider that the main focus is on the relationship between two numerical variables."
       }
     ]
   },
@@ -216,20 +225,30 @@
     ]
   },
   "guideDialog": {
-    "title": "DATOGRAPHER Tutorial",
+    "title": "Data Visualizer",
     "messages": [
       {
-        "text": "For each data set on the right, select different visualization styles from the list on the right to see which fits best.",
+        "text": "Choose from the visualization styles (left), then select one of the data sets (right) to apply it and see the result.",
         "url": "assets/images/type/Updated_dialogue_1.svg",
         "alt": "Image of an item being selected and applied to a target."
       },
       {
-        "text": "Once you are satisfied with your selections for all three data sets, click Submit in the top right to see how many other learners agreed with you!",
-        "url": "assets/images/type/dialogue_2.svg",
-        "alt": "Image of the submit button."
+        "text": "A 'More Info' button will appear when you match a visualization style to a data set.",
+        "url": "assets/images/type/Updated_dialogue_2.svg",
+        "alt": "Image of the More Info button."
       },
       {
-        "text": "Use the buttons in the top left to reset the DATOGRAPHER or to view this tutorial again.",
+        "text": "Clicking on the 'More Info' button reveals the pros and cons of using this visualization style for the data set.",
+        "url": "assets/images/type/Updated_dialogue_3 (1).svg",
+        "alt": "Image of the More Info Dialog."
+      },
+      {
+        "text": "Feel free to explore all the different combinations of visualization styles and data sets to see how each result plot compares!",
+        "url": "assets/images/type/Updated_dialogue_4.svg",
+        "alt": "Image of the options of Data Set that a Visualization Style can be applied to."
+      },
+      {
+        "text": "Use the buttons in the top left to reset the Data Visualizer or view this tutorial again.",
         "url": "assets/images/type/dialogue_4 (1).svg",
         "alt": "Image of the guide and reset button."
       }
