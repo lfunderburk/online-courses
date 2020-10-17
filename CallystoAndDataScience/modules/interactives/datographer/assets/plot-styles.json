@@ -81,7 +81,7 @@
         "alt": "Pie Chart applied to Age Data Set",
         "vector": true,
         "original": "age",
-        "description": "You have selected a Pie Chart to visualize pet age. This type of chart is great to visualize what percentage of individuals occupy a specific category, in this case the categories are ages from 1 to 16. When dealing with a large number of categories that have few individuals, it might be difficult to read and interpret this graph. When using this type of visualization consider that the main focus is on percentage of individuals within each category, where percentage is calculated based on the total number of individuals."
+        "description": "This type of chart is great to visualize what percentage of samples occupy a specific category, in this case, the categories are ages from 1 to 16. When dealing with a large number of categories that have few samples, it might be difficult to read and interpret this graph. When using this type of visualization consider that the main focus is on the percentage of samples within each category, where the percentage is calculated based on the total number of samples."
       },
       {
         "text": "assets/images/type/Updated_graph_age_bar_chart.svg",
@@ -89,7 +89,7 @@
         "alt": "Bar Chart applied to Age Data Set",
         "vector": true,
         "original": "age",
-        "description":"You have selected a Bar Chart to visualize pet age. This type of chart is great for visualizing the number of individuals in each category, in this case the categories are ages from 1 to 16. From this plot we can see that a lot of pets are 3 years old or younger. When using this type of visualization consider that the main focus is on frequency of individuals within each category."
+        "description":"You have selected a Bar Chart to visualize pet age. This type of chart is great for visualizing the number of samples in each category, in this case, the categories are ages from 1 to 16. From this plot, we can see that a lot of pets are 3 years old or younger. When using this type of visualization consider that the main focus is on the frequency of samples within each category."
       },
       {
         "text": "assets/images/type/Updated_graph_age_scatter_plot.svg",
@@ -97,7 +97,7 @@
         "alt": "Scatter Plot applied to Age Data Set",
         "vector": true,
         "original": "age",
-        "description": "You have selected a Scatter Plot to visualize pet age. This type of chart is great at showing the relationship between two variables. For example, the relationship between age of a pet and its weight. This plot can be confusing when comparing a variable against its frequency, such as age against count. When using this type of visualization consider that the main focus is on the relationship between two numerical variables."
+        "description": "You have selected a Scatter Plot to visualize pet age. This type of chart is great at showing the relationship between two variables. For example, the relationship between the age of a pet and its weight. This plot can be confusing when comparing a variable against its frequency, such as age against count. When using this type of visualization consider that the main focus is on the relationship between two numerical variables."
       }
     ],
     "gender": [
@@ -107,7 +107,7 @@
         "alt": "Pie Chart applied to Gender Data Set",
         "vector": true,
         "original": "gender",
-        "description": "You have selected a Pie Chart to visualize pet gender. This type of chart is great to visualize what percentage of individuals occupy a specific category, in this case the categories are pet genders male and female. This visualization is great when dealing with a small number of categories, and a large number of individuals. This visualization communicates that there are slighlty more female pets than male pets in the dataset (51.6% female, 48.4%). When using this type of visualization consider that the main focus is on percentage of individuals within each category, where percentage is calculated based on the total number of individuals."
+        "description": "You have selected a Pie Chart to visualize pet gender. This type of chart is great to visualize what percentage of samples occupy a specific category, in this case, the categories are pet genders male and female. This visualization is great when dealing with a small number of categories, and a large number of samples. This visualization communicates that there are slightly more female pets than male pets in the dataset (51.6% female, 48.4%). When using this type of visualization consider that the main focus is on the percentage of samples within each category, where the percentage is calculated based on the total number of samples."
       },
       {
         "text": "assets/images/type/Updated_graph_gender_bar_chart.svg",
@@ -115,7 +115,7 @@
         "alt": "Bar Chart applied to Gender Data Set",
         "vector": true,
         "original": "gender",
-        "description": "You have selected a Bar Chart to visualize pet gender. This type of chart is great for visualizing the number of individuals in each category, in this case the categories are pet genders male and female. This type of visualization is useful when the numbers are quite different between the categories. In this example, the number of female and male pets is very close. When using this type of visualization consider that the main focus is on frequency of individuals within each category."
+        "description": "You have selected a Bar Chart to visualize pet gender. This type of chart is great for visualizing the number of samples in each category, in this case, the categories are pet genders male and female. This type of visualization is useful when the numbers are quite different between the categories. In this example, the number of female and male pets is very close. When using this type of visualization consider that the main focus is on the frequency of samples within each category."
       },
       {
         "text": "assets/images/type/Updated_graph_gender_scatter_plot.svg",
@@ -123,7 +123,7 @@
         "alt": "Scatter Plot applied to Gender Data Set",
         "vector": true,
         "original": "gender",
-        "description": "You have selected a Scatter Plot to visualize pet gender. This type of chart is great at showing the relationship between two variables. For example, the relationship between age of a pet and its weight. This plot can be confusing when comparing a variable against its frequency, such as gender against count (the number of times a pet of a given gender appeared in the dataset). When using this type of visualization consider that the main focus is on the relationship between two numerical variables."
+        "description": "You have selected a Scatter Plot to visualize pet gender. This type of chart is great at showing the relationship between two variables. For example, the relationship between the age of a pet and its weight. This plot can be confusing when comparing a variable against its frequency, such as gender against count (the number of times a pet of a given gender appeared in the dataset). When using this type of visualization consider that the main focus is on the relationship between two numerical variables."
       }
     ],
     "species": [
@@ -133,7 +133,7 @@
         "alt": "Pie Chart applied to Species Data Set",
         "vector": true,
         "original": "species",
-        "description": "You have selected a Pie Chart to visualize pet species. This type of chart is great to visualize what percentage of individuals occupy a specific category. This type of chart emphasises the idea that almost half of the pets in the dataset are dogs (48.4% of pets are dogs), and that about a third of the pets in the dataset are cats (35.5% of pets are cats). When using this type of visualization consider that the main focus is on percentage of individuals within each category, where percentage is calculated based on the total number of individuals."
+        "description": "You have selected a Pie Chart to visualize pet species. This type of chart is great to visualize what percentage of samples occupy a specific category. This type of chart emphasizes the idea that almost half of the pets in the dataset are dogs (48.4% of pets are dogs), and that about a third of the pets in the dataset are cats (35.5% of pets are cats). When using this type of visualization consider that the main focus is on the percentage of samples within each category, where the percentage is calculated based on the total number of samples."
       },
       {
         "text": "assets/images/type/Updated_graph_species_bar_chart.svg",
@@ -141,7 +141,7 @@
         "alt": "Bar Chart applied to Species Data Set",
         "vector": true,
         "original": "species",
-        "description": "You have selected a Bar Chart to visualize pet species. This type of chart is great for visualizing the number of individuals in each category, in this case the categories are pet species. This type of visualization great to see the number of individuals within each category. From this plot we see that most pets in the data set are dogs and cats, and that there are 2 lizards, 2 rabbits and 1 tarantula. When using this type of visualization consider that the main focus is on frequency of individuals within each category."
+        "description": "You have selected a Bar Chart to visualize pet species. This type of chart is great for visualizing the number of samples in each category, in this case, the categories are pet species. This type of visualization great to see the number of samples within each category. From this plot, we see that most pets in the data set are dogs and cats and that there are 2 lizards, 2 rabbits and 1 tarantula. When using this type of visualization consider that the main focus is on the frequency of samples within each category."
       },
       {
         "text": "assets/images/type/Updated_graph_species_scatter_plot.svg",
@@ -149,7 +149,7 @@
         "alt": "Scatter Plot applied to Species Data Set",
         "vector": true,
         "original": "species",
-        "description": "You have selected a Scatter Plot to visualize pet species population. This type of chart is great at showing the relationship between two variables. For example, the relationship between age of a pet and its weight. This plot can be confusing when comparing a variable against its frequency, such as pet species against count (the number of times a pet of a given species appeared in the dataset). When using this type of visualization consider that the main focus is on the relationship between two numerical variables."
+        "description": "You have selected a Scatter Plot to visualize pet species population. This type of chart is great at showing the relationship between two variables. For example, the relationship between the age of a pet and its weight. This plot can be confusing when comparing a variable against its frequency, such as pet species against count (the number of times a pet of a given species appeared in the dataset). When using this type of visualization consider that the main focus is on the relationship between two numerical variables."
       }
     ]
   },
